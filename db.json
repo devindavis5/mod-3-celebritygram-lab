@@ -1,0 +1,27 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "title": "The Rock Flexin his Big Daddy Arms",
+      "likes": 0,
+      "image": "https://images.ladbible.com/resize?type=jpeg&url=http://beta.ems.ladbiblegroup.com/s3/content/a87d98d35f68c2fc94b0604a44d2e0dc.png&quality=70&width=720&aspectratio=16:9&extend=white"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "imageId": 1,
+      "content": "What a man!"
+    },
+    {
+      "id": 2,
+      "imageId": 1,
+      "content": "Ready for a cheat day!"
+    },
+    {
+      "id": 3,
+      "imageId": 1,
+      "content": "Look at those veins!"
+    }
+  ]
+}
